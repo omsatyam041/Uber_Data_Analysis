@@ -35,7 +35,7 @@ A trained machine learning model for predicting ride booking likelihoods based o
 Strategic recommendations for optimizing ride bookings and improving customer satisfaction based on the analysis.
 
 5) Tools & Techniques:
-6) 
+
 Python: For data analysis (Pandas, NumPy), data visualization (Matplotlib, Seaborn).
 
 Machine Learning: Scikit-learn for building and evaluating predictive models.
